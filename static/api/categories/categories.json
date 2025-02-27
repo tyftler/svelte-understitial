@@ -1,0 +1,56 @@
+{
+	"categories": [
+		{
+			"title": "International",
+			"path": "/"
+		},
+		{
+			"title": "Inland",
+			"path": "/"
+		},
+		{
+			"title": "Web",
+			"path": "/"
+		},
+		{
+			"title": "Sport",
+			"path": "/"
+		},
+		{
+			"title": "Panorama",
+			"path": "/"
+		},
+		{
+			"title": "Kultur",
+			"path": "/"
+		},
+		{
+			"title": "Etat",
+			"path": "/"
+		},
+		{
+			"title": "Wissenschaft",
+			"path": "/"
+		},
+		{
+			"title": "Lifestyle",
+			"path": "/"
+		},
+		{
+			"title": "Diskurs",
+			"path": "/"
+		},
+		{
+			"title": "Karriere",
+			"path": "/"
+		},
+		{
+			"title": "Immobilien",
+			"path": "/"
+		},
+		{
+			"title": "Zukunft",
+			"path": "/"
+		}
+	]
+}

@@ -1,0 +1,194 @@
+{
+	"ads": {
+		"ad-slot-1": {
+			"id": "half-page-1",
+			"format": "half-page",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		},
+		"ad-slot-2": {
+			"id": "half-page-2",
+			"format": "half-page",
+			"adServer": "google",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		},
+		"ad-slot-3": {
+			"id": "half-page-3",
+			"format": "half-page",
+			"adServer": "adition",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		},
+		"ad-slot-4": {
+			"id": "half-page-4",
+			"format": "half-page",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		},
+		"ad-slot-5": {
+			"id": "medium-rectangle-1",
+			"format": "medium-rectangle",
+			"adServer": "google",
+			"adUnitId": "ad-unit-1",
+			"embedding": "html",
+			"type": "text",
+			"size": [300, 250],
+			"html": "<div style='display: flex; width: 300px; height: 250px; justify-content: center; align-items: center; background-color: #ffffc5; font-weight: 700'>Hier könnte Ihre<br>Werbung stehen...</div>"
+		},
+		"ad-slot-6": {
+			"id": "medium-rectangle-2",
+			"format": "medium-rectangle",
+			"adServer": "adition",
+			"adUnitId": "ad-unit-1",
+			"embedding": "html",
+			"type": "text",
+			"size": [300, 250],
+			"html": "<div style='display: flex; width: 300px; height: 250px; justify-content: center; align-items: center; background-color: #ffffc5; font-weight: 700'>Hier könnte Ihre<br>Werbung stehen...</div>"
+		},
+		"ad-slot-7": {
+			"id": "medium-rectangle-3",
+			"format": "medium-rectangle",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "html",
+			"type": "text",
+			"size": [300, 250],
+			"html": "<div style='display: flex; width: 300px; height: 250px; justify-content: center; align-items: center; background-color: #ffffc5; font-weight: 700'>Hier könnte Ihre<br>Werbung stehen...</div>"
+		},
+		"ad-slot-8": {
+			"id": "medium-rectangle-4",
+			"format": "medium-rectangle",
+			"adServer": "google",
+			"adUnitId": "ad-unit-1",
+			"embedding": "html",
+			"type": "text",
+			"size": [300, 250],
+			"html": "<div style='display: flex; width: 300px; height: 250px; justify-content: center; align-items: center; background-color: #ffffc5; font-weight: 700'>Hier könnte Ihre<br>Werbung stehen...</div>"
+		},
+		"ad-slot-9": {
+			"id": "medium-rectangle-5",
+			"format": "medium-rectangle",
+			"adServer": "adition",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 250],
+			"url": "/cdn/ads/ad2/ad.html"
+		},
+		"ad-slot-10": {
+			"id": "medium-rectangle-6",
+			"format": "medium-rectangle",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 250],
+			"url": "/cdn/ads/ad2/ad.html"
+		},
+		"ad-slot-11": {
+			"id": "medium-rectangle-7",
+			"format": "medium-rectangle",
+			"adServer": "google",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 250],
+			"url": "/cdn/ads/ad2/ad.html"
+		},
+		"ad-slot-12": {
+			"id": "medium-rectangle-8",
+			"format": "medium-rectangle",
+			"adServer": "adition",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 250],
+			"url": "/cdn/ads/ad2/ad.html"
+		},
+		"ad-slot-13": {
+			"id": "half-page-5",
+			"format": "half-page",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad3/ad.html"
+		},
+		"ad-slot-14": {
+			"id": "half-page-6",
+			"format": "half-page",
+			"adServer": "google",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad3/ad.html"
+		},
+		"ad-slot-15": {
+			"id": "half-page-7",
+			"format": "half-page",
+			"adServer": "adition",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad3/ad.html"
+		},
+		"ad-slot-16": {
+			"id": "half-page-8",
+			"format": "half-page",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad3/ad.html"
+		},
+		"ad-slot-17": {
+			"id": "half-page-9",
+			"format": "half-page",
+			"adServer": "google",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		},
+		"ad-slot-18": {
+			"id": "half-page-10",
+			"format": "half-page",
+			"adServer": "adition",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		},
+		"ad-slot-19": {
+			"id": "half-page-11",
+			"format": "half-page",
+			"adServer": "prebid",
+			"adUnitId": "ad-unit-1",
+			"embedding": "iframe",
+			"type": "static-image",
+			"size": [300, 600],
+			"url": "/cdn/ads/ad1/ad.html"
+		}
+	}
+}
